@@ -1,7 +1,7 @@
 # Hi, I'm Sriram Annamalai 👋
 
 **Applied AI Engineer · Team Lead** · Agentic AI (MCP) · Vector search · Data pipelines · Cloud
-Coimbatore, India · Microsoft Azure-certified (AI Engineer Associate, Data Scientist Associate)
+Coimbatore, India · Microsoft Azure-certified (Data Scientist Associate, Cosmos DB AI Developer Associate)
 
 I build production systems where machine learning meets real operational data. For 3 years at
 Techfinite Systems (since Aug 2023) I've shipped ML, NLP, agentic AI, ETL pipelines, full-stack web
